@@ -1,3 +1,4 @@
-Nombre
-Edad
-Juegos actuales
+Nombre:
+Edad:
+Juegos actuales:
+Juegos favoritos
